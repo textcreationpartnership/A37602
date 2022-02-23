@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act touching marriages and the registring thereof, and also touching births and burials</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37602</idno>
+            <idno type="STC">Wing E1157</idno>
+            <idno type="STC">ESTC R209401</idno>
+            <idno type="EEBO-CITATION">12142632</idno>
+            <idno type="OCLC">ocm 12142632</idno>
+            <idno type="VID">54861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54861)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 761:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act touching marriages and the registring thereof, and also touching births and burials</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 37-45 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Field ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Registers of births, etc. --  England.</term>
+               <term>Marriage law --  England.</term>
+               <term>Burial laws --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54861:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:54861:1"/>
+            <!-- PDF PAGE 25 -->
+            <p>AN ACT Touching MARRIAGES And the Regiſtring thereof; And alſo touching Births and Burials.</p>
+            <p>Wedneſday the 24<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1653.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Iohn Field,</hi> Printer to the Par<g ref="char:EOLhyphen"/>liament of <hi>England.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:54861:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="37" facs="tcp:54861:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ACT Touching MARRIAGES And the Regiſtring thereof; And alſo touching Births and Burials.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Enacted by the Authority of this preſent Parliament, That whoſoever ſhall agree to be mar<g ref="char:EOLhyphen"/>ried within the Commonwealth of <hi>England,</hi> after the Nine and twentieth day of <hi>September, in</hi> the year One thouſand ſix hundred fifty three,
+<pb n="38" facs="tcp:54861:3"/>
+               <!-- PDF PAGE 27 -->ſhall (one and twenty days at leaſt before ſuch intended Marriage) deliver in writing, or cauſe to be ſo delivered unto the Regiſter (hereafter appointed by this Act) for the re<g ref="char:EOLhyphen"/>ſpective Pariſh where each party to be mar<g ref="char:EOLhyphen"/>ried liveth, the Names, Sirnames, Additi<g ref="char:EOLhyphen"/>ons, and place of abode of the parties ſo to be married, and of their Parents, Guardians or Overſeers; All which the ſaid Regiſter ſhall publiſh or cauſe to be publiſhed, three ſe<g ref="char:EOLhyphen"/>veral Lords days then next following, at the cloſe of the Morning Exerciſe, in the Pub<g ref="char:EOLhyphen"/>lique Meeting place commonly called <hi>The Church</hi> or <hi>Chappel;</hi> or (if the parties ſo to be married ſhall deſire it) in the Market-place next to the ſaid Church or Chappel, on three Market days in three ſeveral weeks next fol<g ref="char:EOLhyphen"/>lowing, between the hours of eleven and two; which being ſo performed, the Regiſter ſhall (upon requeſt of the parties concerned) make a true Certificate of the due performance thereof, without which Certificate, the per<g ref="char:EOLhyphen"/>ſons herein after Authorized ſhall not proceed in ſuch Marriage: And if any Exception ſhall be made againſt the ſaid intended Mar<g ref="char:EOLhyphen"/>riage, the Regiſter ſhall alſo inſert the ſame, with the name of the perſon making ſuch Ex<g ref="char:EOLhyphen"/>ception, and their place of abode, in the ſaid Certificate of Publication.</p>
+            <p>And it is further Enacted, That all ſuch perſons ſo intending to be married, ſhall come before ſome Iuſtice of Peace within and of the ſame County, City or Town Corporate where Publication ſhall be made as aforeſaid;
+<pb n="39" facs="tcp:54861:3"/>
+               <!-- PDF PAGE 27 -->and ſhall bring a Certificate of the ſaid Pub<g ref="char:EOLhyphen"/>lication, and ſhall make ſufficient proof of the conſent of their Parents or Guardians, if ei<g ref="char:EOLhyphen"/>ther of the ſaid parties ſhall be under the Age of One and twenty years: And the ſaid Iu<g ref="char:EOLhyphen"/>ſtice ſhall examine by Witneſſes upon Oath, or otherways (as he ſhall ſee cauſe) concerning the Truth of the Certificate, and due per<g ref="char:EOLhyphen"/>formance of all the premiſes; and alſo of any Exception made or ariſing: And (if there ap<g ref="char:EOLhyphen"/>pear no reaſonable cauſe to the contrary) the Marriage ſhall proceed in this maner:</p>
+            <p>The Man to be married, taking the Woman to be married by the hand, ſhall plainly and diſtinctly pronounce theſe words:<lb/>
+               <q>I <hi>A. B.</hi> do here in the preſence of God the Searcher of all Hearts, take thee <hi>C. D.</hi> for my wedded VVife; and do alſo in the preſence of God, and before theſe witneſſes, pro<g ref="char:EOLhyphen"/>miſe to be unto thee a loving and faithful Husband.</q>
+            </p>
+            <p>And then the Woman, taking the Man by the hand, ſhall plainly and diſtinctly pro<g ref="char:EOLhyphen"/>nounce theſe words:<lb/>
+               <q>I <hi>C. D.</hi> do here in the preſence of God the Searcher of all Hearts, take thee <hi>A. B.</hi> for my wedded Husband; and do alſo in the preſence of God, and before theſe witneſſes, promiſe to be unto thee a loving, faithful and obedient VVife.</q>
+            </p>
+            <p>
+               <pb n="40" facs="tcp:54861:4"/>
+               <!-- PDF PAGE 28 -->
+And it is further Enacted, That the Man and Woman having made ſufficient proof of the Conſent of their Parents or Guardians as aforeſaid, and expreſſed their conſent unto Marriage, in the maner and by the words aforeſaid, before ſuch Iuſtice of Peace in the preſence of two or more credible witneſſes; The ſaid Iuſtice of Peace may and ſhall de<g ref="char:EOLhyphen"/>clare the ſaid Man and Woman to be from thenceforth Husband and Wife; and from and after ſuch Conſent ſo expreſſed, and ſuch De<g ref="char:EOLhyphen"/>claration made, the ſame (as to the form of Marriage) ſhal be good and effectual in Law; And no other Marriage whatſoever within the Commonwealth of <hi>England,</hi> after the Twenty ninth day of <hi>September,</hi> in the year One thouſand ſix hundred fifty three, ſhall be held or accompted a Marriage according to the Laws of <hi>England:</hi> But the Iuſtice of Peace (before whom a Marriage is ſolemni<g ref="char:EOLhyphen"/>zed) in caſe of dumb perſons, may diſpence with pronouncing the words aforeſaid; and with joyning hands in caſe of perſons that have not hands.</p>
+            <p>And that a true and juſt Accompt may be always kept, as well of Publications, as of all ſuch Marriages, and alſo of the Births of Children, and Deaths of all ſorts of perſons within this Commonwealth; Be it further Enacted, That a Book of good Vellum or Parchment ſhall be provided by every Pariſh, for the Regiſtring of all ſuch Marriages, and of all Births of Children,
+<pb n="41" facs="tcp:54861:4"/>
+               <!-- PDF PAGE 28 -->and Burials of all ſorts of people within eve<g ref="char:EOLhyphen"/>ry pariſh; for the ſafe keeping of which Book, the Inhabitants and Houſholders of every pariſh chargeable to the relief of the Poor, or the greater part of them preſent, ſhall on or before the Two and twentieth day of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> in the year One thouſand ſix hundred fifty three, make choice of ſome able and ho<g ref="char:EOLhyphen"/>neſt perſon (ſuch as ſhall be ſworn and appro<g ref="char:EOLhyphen"/>ved by one Iuſtice of the Peace in that pariſh, Diviſion or County, and ſo ſignified under his hand in the ſaid Regiſter-Book) to have the keeping of the ſaid Book, who ſhall therein fairly enter in writing all ſuch Publications, Marriages, Births of Children, and Buri<g ref="char:EOLhyphen"/>als of all ſorts of perſons, and the Names of every of them, and the Days of the moneth and year of Publications, Marriages, Births and Burials, and the Parents, Guardians or Overſeers names: And the Regiſter in ſuch pariſh ſhall attend the ſaid Iuſtice of Peace to ſubſcribe the Entry of every ſuch Mar<g ref="char:EOLhyphen"/>riage: And the perſon ſo elected, approved and ſworn, ſhall be called <hi>The Pariſh-Regiſter,</hi> and ſhall continue three years in the ſaid place of Regiſter and longer, until ſome other be choſen, unleſs ſuch Iuſtice of the Peace, or the ſaid Pariſh with conſent of ſuch Iuſtice, ſhall think fit to remove him ſooner: And for ſuch Publications and Certificate thereof, Twelve pence and no more may be taken; and for the Entry of every Marriage, Twelve pence and no more; and for every Birth of Childe, Four pence and no more; and for eve<g ref="char:EOLhyphen"/>ry Death, Four pence and no more: And for
+<pb n="42" facs="tcp:54861:5"/>
+               <!-- PDF PAGE 29 -->Publications, Marriages, Births or Buri<g ref="char:EOLhyphen"/>als of poor people who live upon Alms, no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing ſhall be taken. And the ſaid Iuſtice of Peace (if it be deſired) ſhall give unto the par<g ref="char:EOLhyphen"/>ties ſo married, a Certificate in Parchment under his hand and ſeal, of ſuch Marriage, and of the day of the Solemnization thereof, and of two or more of the witneſſes then pre<g ref="char:EOLhyphen"/>ſent; and the Iuſtices Clerk for this Certi<g ref="char:EOLhyphen"/>ficate may receive Twelve pence and no more: And if ſuch Certificate ſhall be produced to the Clerk of the Peace for that County, and requeſt made to him to make an Entry there<g ref="char:EOLhyphen"/>of, Then the ſaid Clerk of the Peace is here<g ref="char:EOLhyphen"/>by required to enter the ſame in a Book of Parchment to be provided for that purpoſe, and kept amongſt the Records of the ſaid Seſsions, and to reſtore the ſaid Certificate; for which Entry, the Clerk of the Peace may receive Four pence and no more.</p>
+            <p>And be it further Enacted, That if any per<g ref="char:EOLhyphen"/>ſon by violence or fraud ſhall ſteal and take away, or cauſe to be ſtolen or taken away, any perſon whatſoeve, under the age of One and twenty years, with intent to marry the ſaid perſon in this Commonwealth, or in any other place; ſuch perſon and perſons ſo ſteal<g ref="char:EOLhyphen"/>ing and taking away, or cauſing to be ſtolen and taken away, ſhall forfeit his and their whole Eſtate real and perſonal, one half thereof to the Commonwealth, and the other half to the uſe of the party ſo taken away, to be recovered by any Suit on behalf of the Commonwealth; or by any Action in a
+<pb n="43" facs="tcp:54861:5"/>
+               <!-- PDF PAGE 29 -->Court of Record, brought by their Parent, Guardian or Overſeer, and ſhall farther ſuf<g ref="char:EOLhyphen"/>fer ſtrict and cloſe Impriſonment, and be kept to hard labor in ſome Houſe of Correction or other publique Working houſe during life; and every perſon that ſhall be convicted upon Indictment, Preſentment, or by any due courſe of Law, for aiding or abetting any ſuch violence or fraud, ſhall be Impriſoned, and kept at hard labor (as aforeſaid) during the ſpace of ſeven whole years next after ſuch conviction; and any pretended Marriage, that at any time hereafter ſhall be obtained by any ſuch violence or fraud, is hereby decla<g ref="char:EOLhyphen"/>red null and void.</p>
+            <p>And it is further Enacted, That where any Guardian or Overſeer ſhal betray any Truſt touching any childe, by ſeducing, ſelling or otherways wilfully putting ſuch Childe in<g ref="char:EOLhyphen"/>to the hands or power of any perſon who ſhall marry ſuch Childe, without his or her free conſent, ſuch Guardian or Overſeer ſhall forf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iet double the portion which of right did belong to ſuch Childe, one moyety thereof to go to the Commonwealth, and the other to the Childe ſo married as aforeſaid, to be re<g ref="char:EOLhyphen"/>covered by any Action, Bill, Plaint or Suit, in any Court of Record, by the party wronged, or any other perſon on his or her behalf.</p>
+            <p>And it is hereby Declared and Enacted, That from and after the Nine and twentieth day of <hi>September,</hi> One thouſand ſix hundred fifty and three, the Age for a Man to conſent
+<pb n="44" facs="tcp:54861:6"/>
+               <!-- PDF PAGE 30 -->unto Marriage ſhall be Sixteen years, and the age of a Woman Fourteen years, and not before; and any Contract or Marriage had or made before the reſpective Ages aforeſaid, ſhall be void and of none effect.</p>
+            <p>And it is further Enacted, That the hear<g ref="char:EOLhyphen"/>ing and determining of all Matters and Con<g ref="char:EOLhyphen"/>troverſies touching Contracts and Marri<g ref="char:EOLhyphen"/>ages, and the lawfulneſs and unlawfulneſs thereof; and all exceptions againſt Contracts and Marriages, and the diſtribution of For<g ref="char:EOLhyphen"/>feitures within this Act, ſhall be in the power, and referred to the determination of the Iu<g ref="char:EOLhyphen"/>ſtices of Peace in each County, City or Town Corporate, at the General Quarter Seſſions; or of ſuch other perſons to hear and determine the ſame, as the Parliament ſhall hereafter appoint.</p>
+            <p>And be it further Enacted, That all and every Offence and Offences at any time or times hereafter committed or done upon or be<g ref="char:EOLhyphen"/>yond the Sea, contrary to the Tenor and true intent and meaning of this Act, ſhall and may be tryed in any City, Town Corporate, or County where the perſon or perſons ſo offend<g ref="char:EOLhyphen"/>ing ſhall be apprehended or attached for the Offence or Offences aforeſaid.</p>
+            <p>And it is alſo Enacted, That where there are ſmall Pariſhes, or places not within any pariſh, or no uſual Morning-Exerciſe on the Lords day in the aforeſaid Meeting-place, the Iuſtices of Peace at their General-Seſ<g ref="char:EOLhyphen"/>ſions,
+<pb n="45" facs="tcp:54861:6"/>
+               <!-- PDF PAGE 30 -->or any three or more of them, may unite two or more ſuch pariſhes, or ſuch places to other pariſhes (at their Diſcretions) which ſhall be accompted one Pariſh, as to the matters onely within this Act; And one Regiſter to ſerve for ſuch pariſhes and places ſo united.</p>
+            <p>And be it Enacted. That all and every the perſons in this Act mentioned, may and ſhall, in their ſeveral places by vertue hereof, put in execution all and every the Powers and Au<g ref="char:EOLhyphen"/>thorities reſpectively to them limitted by this Act, Any Law, Statute, Cuſtom or Vſage to the contrary notwithſtanding. And all Regiſter-Books for Marriages, Births and Burials already paſt, ſhall be delivered <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to the Hands of the reſpective Regiſters appoint<g ref="char:EOLhyphen"/>ed by this Act, to be kept as Records.</p>
+            <p>And it is laſtly Enacted by this preſent Par<g ref="char:EOLhyphen"/>liament, and the Authority thereof, That this preſent Act ſhall be in force in <hi>Ireland,</hi> from and after the Firſt day of <hi>December,</hi> which ſhall be in the year of our Lord, One thouſand ſix hundred fifty and three.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Wedneſday the 24<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1653.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
